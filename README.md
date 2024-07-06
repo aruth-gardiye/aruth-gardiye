@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aruth
 - 👀 I’m interested in machine learning and automation
-- 🌱 I’m currently learning classification and regression algorithms
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 You can reach me on [@aruth-gardiye](https://github.com/aruth-gardiye)
 
